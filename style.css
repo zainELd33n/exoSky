@@ -81,4 +81,8 @@ header {
     justify-content: space-between;
 }
 #clickHere {
+    width: 45%;
+    height: 3.2vw;
+    background-image: url(photo1.png);
+    border: 0px;
 }
