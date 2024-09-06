@@ -86,3 +86,15 @@ header {
     background-image: url(photo1.png);
     border: 0px;
 }
+/* #clickHere:hover {
+    animation-name: enlarge;
+    animation-duration: 1350ms;
+}
+@keyframes enlarge {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+} */
