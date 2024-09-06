@@ -82,7 +82,7 @@ header {
 }
 #clickHere {
     width: 45%;
-    height: 3.2vw;
+    height: 3.2vh;
     background-image: url(photo1.png);
     border: 0px;
     transition: all 0.75s;
