@@ -85,16 +85,12 @@ header {
     height: 3.2vw;
     background-image: url(photo1.png);
     border: 0px;
+    transition: all 0.75s;
 }
-/* #clickHere:hover {
-    animation-name: enlarge;
-    animation-duration: 1350ms;
+#clickHere:hover {
+    transform: scale(1.1);
 }
-@keyframes enlarge {
-    0% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(1.1);
-    }
-} */
+#clickHere:focus {
+    transform: scale(.95);
+    opacity: 75%;
+}
