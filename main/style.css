@@ -1,6 +1,6 @@
 @font-face {
     font-family: "reoSpec";
-    src: url(Reospec.ttf);
+    src: url(/media/Reospec.ttf);
 }
 html *  {
     font-family: "reoSpec";
@@ -86,7 +86,7 @@ header {
 #clickHere {
     width: 45%;
     height: 3.2vh;
-    background-image: url(photo1.png);
+    background-image: url(/media/photo1.png);
     border: 0px;
     transition: all 0.75s;
 }
